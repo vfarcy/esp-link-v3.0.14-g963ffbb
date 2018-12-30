@@ -8,11 +8,17 @@ Réaliser un bridge Wifi / RS232
 Branchements :
 
 Arduino Uno                     Esp8266                 PC USB
+
 RX   ----------------------------  TX
+
 TX   ----------------------------  RX
+
 3V3  ---------------------------- 3V3
+
 GND  ---------------------------- GND
+
 USB  -------------------------------------------------------USB (com éumulé)
+
 
 Références :
 - https://github.com/jeelabs/esp-link/releases (au 20 12 2018, j'utilise la 3.0.14, non alpha) 
