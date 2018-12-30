@@ -1,6 +1,6 @@
 # esp-link-v3.0.14-g963ffbb
 
-Réaliser un bridge Wifi / RS232 
+Bridge Wifi / RS232 
 
 - Bien vérifier que les adresses des flashage soient les bons (Cf Images jointes)
 - réduire la vitesse de flashage à 115200
