@@ -17,7 +17,7 @@ TX   ----------------------------  RX
 
 GND  ---------------------------- GND
 
-USB  -------------------------------------------------------USB (com éumulé)
+USB  -------------------------------------------------------USB (com éumulé) (**PAS OBLIGATOIRE : le montage peut être alimeté directement depuis le port alimentation de l'arduino UNO. Le montage est dans ce cas "autonome", et accessible en wifi**).
 
 
 Références :
