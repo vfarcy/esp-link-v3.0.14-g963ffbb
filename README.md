@@ -1,7 +1,7 @@
 # esp-link-v3.0.14-g963ffbb
 
 - Bien vérifier que les adresses des flashages soient les bons (Cf Images jointes)
-- réduire la vitesse de flashage à 155200
+- réduire la vitesse de flashage à 115200
 
 Inspiré de https://projectaweek.com/2017/09/15/wireless-rs-232-with-esp-link-and-an-esp8266/
 
