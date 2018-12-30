@@ -6,6 +6,7 @@ Réaliser un bridge Wifi / RS232
 - réduire la vitesse de flashage à 115200
 
 Branchements :
+
 Arduino Uno                     Esp8266                 PC USB
 RX   ----------------------------  TX
 TX   ----------------------------  RX
