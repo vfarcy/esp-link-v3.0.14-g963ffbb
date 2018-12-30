@@ -7,7 +7,7 @@ Réaliser un bridge Wifi / RS232
 
 Branchements :
 
-Arduino Uno                     Esp8266                 PC USB
+Arduino Uno                     Esp8266                      PC USB
 
 RX   ----------------------------  TX
 
