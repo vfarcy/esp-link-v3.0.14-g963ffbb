@@ -5,9 +5,7 @@ Réaliser un bridge Wifi / RS232
 - Bien vérifier que les adresses des flashage soient les bons (Cf Images jointes)
 - réduire la vitesse de flashage à 115200
 
-Branchements :
-
-Arduino Uno                     Esp8266                      PC USB
+Branchements (Arduino Uno     /                 Esp8266            /          PC USB)
 
 RX   ----------------------------  TX
 
