@@ -1,10 +1,17 @@
 # esp-link-v3.0.14-g963ffbb
 
-Pour assurer un bridge Wifi / RS232 
+Réaliser un bridge Wifi / RS232 
 
 - Bien vérifier que les adresses des flashage soient les bons (Cf Images jointes)
 - réduire la vitesse de flashage à 115200
 
+Branchements :
+Arduino Uno                     Esp8266                 PC USB
+RX   ----------------------------  TX
+TX   ----------------------------  RX
+3V3  ---------------------------- 3V3
+GND  ---------------------------- GND
+USB  -------------------------------------------------------USB (com éumulé)
 
 Références :
 - https://github.com/jeelabs/esp-link/releases (au 20 12 2018, j'utilise la 3.0.14, non alpha) 
