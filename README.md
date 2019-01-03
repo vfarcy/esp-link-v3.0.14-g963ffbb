@@ -17,7 +17,7 @@ GND  ---------------------------- GND
 
 USB  -------------------------------------------------------USB (com éumulé) (**PAS OBLIGATOIRE : le montage peut être alimeté directement depuis le port alimentation de l'arduino UNO. Le montage est dans ce cas "autonome", et accessible en wifi via telnet**).
 
-
+Rechercher un réseau Wifi : ESP_[??????] et s'y connecter, puis naviguer sur http://192.168.4.1/
 
 Application avec l'émulateur KIM-1 (carte de développement pour 6502) pour arduino Uno (voir dossier KIMUNO) => connextion Telnet (port 23), sur l'adresse 192.x.x.x. Attention, la connexion série entre l'arduino Uno et l'esp8266 doit être paramétrée à 9600 bauds (vitesse par defaut de l'émulateur 6502).
 
