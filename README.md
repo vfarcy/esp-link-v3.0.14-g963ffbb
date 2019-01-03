@@ -2,7 +2,7 @@
 
 Bridge Wifi / RS232 
 
-- Bien vérifier que les adresses des flashage soient les bons (Cf Images jointes)
+- Bien vérifier que les adresses des flashage soient les bons (Cf Images jointes : boot.., blank..., Esp... puis user ..)
 - réduire la vitesse de flashage à 115200
 
 Branchements (Arduino Uno     /                 Esp8266            /          PC USB)
